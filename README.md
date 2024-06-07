@@ -76,10 +76,6 @@ To run the project, follow these steps:
 - Ensure your input file is properly formatted and placed in the correct directory.
 - Adjust the CPU count, speed, and time quantum as needed for different simulations.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy experimenting with job scheduling using the Round-Robin method!
